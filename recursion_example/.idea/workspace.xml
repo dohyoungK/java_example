@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b620ca-d2c1-4986-9445-1e6ac9b17d07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SumTo_01.java" afterDir="false" />
+    <list default="true" id="91b620ca-d2c1-4986-9445-1e6ac9b17d07" name="Changes" comment="recursion_example 구현">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stream_example/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stream_example/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stream_example/stream_example/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +93,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683694206607</updated>
-      <workItem from="1683694208106" duration="4946000" />
+      <workItem from="1683694208106" duration="5589000" />
     </task>
+    <task id="LOCAL-00001" summary="recursion_example 구현">
+      <created>1683704502620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683704502620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="recursion_example 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion_example 구현" />
   </component>
 </project>
